@@ -1,8 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tanaton Phukanngam
 ==========================================================================================================================================
 
-Web/App Developer (Front-end) / 
-Pennetration Tester
+Web/App Developer (Front-end)
 -----------------------------
 
 I'm a third-years student study at King Mongkut's University of Technology Thonburi, Faculty of Engineering Major Computer. I'm interest about Frond-end developer /Web Developer and Cybersecurity. Now I’m leaning about Cybersecurity and making project about Penetration Test but I’m ready to learn new things and want to practice skills up.
