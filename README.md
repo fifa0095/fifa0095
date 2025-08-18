@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web/App Developer (Front-end)
 -----------------------------
 
-I'm a third-years student study at King Mongkut's University of Technology Thonburi, Faculty of Engineering Major Computer. I'm interest about Frond-end developer /Web Developer and Cybersecurity. Now I’m leaning about Cybersecurity and making project about Penetration Test but I’m ready to learn new things and want to practice skills up.
+I'm a graduate at King Mongkut's University of Technology Thonburi, Faculty of Engineering Major Computer. I'm interest about Frond-end developer /Web Developer and Consulting. Now I’m leaning about ERP but I’m ready to learn new things and want to practice skills up.
 
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [tanaton.phuk@gmail.com](mailto:tanaton.phuk@gmail.com)
-* 🧠  I'm learning Cyber Security, Network, WireShank, SQLMap, Brupsite
-* 🤝  I'm open to collaborating on Cybersecurity Project such as Pentest
+* 🧠  I'm learning ERP, ServiceNow, Odoo
+* 🤝  I'm open to collaborating on ERP Project such as Developer or Consultant
 
 ### Skills
 
