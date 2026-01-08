@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tanaton Phukanngam
 ==========================================================================================================================================
 
-Web/App Developer (Front-end)
+ERP Implementation and Web Developer
 -----------------------------
 
-I'm a graduate at King Mongkut's University of Technology Thonburi, Faculty of Engineering Major Computer. I'm interest about Frond-end developer /Web Developer and Consulting. Now I’m leaning about ERP but I’m ready to learn new things and want to practice skills up.
+I'm a graduate at King Mongkut's University of Technology Thonburi, Faculty of Engineering Major Computer. I'm interest about Frond-end developer /Web Developer and ERP. Now I’m leaning about ERP but I’m ready to learn new things and want to practice skills up.
 
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [tanaton.phuk@gmail.com](mailto:tanaton.phuk@gmail.com)
